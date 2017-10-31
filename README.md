@@ -1,4 +1,4 @@
-# Bitmap-loading-And-Cache
+# Bitmap-Loading-And-Cache
 # Bitmap的加载和Cache
 
 ## Bitmap的高效加载
